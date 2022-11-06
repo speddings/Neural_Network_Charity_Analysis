@@ -68,7 +68,7 @@ Software:
    * 2 hidden layers (80, 30 neurons)
    * `sigmoid` activation function in both hidden layers
    * 100 epochs
-   * Removed noisy features - `EIN`, `NAME`, `USE_CASE` and increased neurons in each hidden layer
+   * Removed noisy features - `EIN`, `NAME`, `USE_CASE`; changed activation funtion in hidden layers
 
 2. The model returned a __53%__ accuracy.
    ![test-3](resources/test-3.png)
