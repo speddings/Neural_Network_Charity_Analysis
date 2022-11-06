@@ -1,6 +1,6 @@
 # Neural Network Charity Analysis
 
-# Purpose
+# Overview
 The purpose of this project is to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. Neural networks and deep learning models will be used.
 
 # Resources
